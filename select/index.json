@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "覇王樹",
+  "base_artist": "Shounanno Kaze",
+  "createdAt": "2026-03-09T18:19:36.576198Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "覇王樹",
+      "artist": "Shonan No Kaze",
+      "has_synced": false,
+      "path": "select/01_覇王樹_Shonan_No_Kaze.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "覇王樹",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_01_覇王樹_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "覇王樹",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_02_覇王樹_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "覇王樹",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_03_覇王樹_湘南乃風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "覇王樹",
+      "artist": "湘南乃風",
+      "has_synced": false,
+      "path": "select/pl_04_覇王樹_湘南乃風.txt"
+    }
+  ]
+}
